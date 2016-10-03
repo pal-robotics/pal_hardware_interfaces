@@ -2,8 +2,8 @@
 Changelog for package pal_hardware_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2016-10-03)
+------------------
 * Removed unnecessary hardware interfaces
 * Added interfaces
 * Initial commit
