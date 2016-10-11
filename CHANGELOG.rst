@@ -2,8 +2,8 @@
 Changelog for package pal_hardware_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2016-10-11)
+------------------
 * Added correct depends
 * Add new file
 * Contributors: Hilario Tome
