@@ -8,6 +8,10 @@ Forthcoming
 * Changed license
 * Contributors: Hilario Tome
 
+* added getter to temperature data
+* Changed license
+* Contributors: Hilario Tome
+
 0.0.2 (2016-10-11)
 ------------------
 * Added correct depends
