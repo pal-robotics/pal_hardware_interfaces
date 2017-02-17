@@ -2,8 +2,8 @@
 Changelog for package pal_hardware_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2017-02-17)
+------------------
 * added getter to temperature data
 * Changed license
 * Contributors: Hilario Tome
