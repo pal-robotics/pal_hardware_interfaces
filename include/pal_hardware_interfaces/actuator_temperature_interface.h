@@ -30,6 +30,8 @@ namespace hardware_interface
 
     double getValue() const {assert(value_); return *value_;}
 
+    double* getValuePtr() const {assert(value_); return value_;}
+
   private:
     std::string name_;
     double* value_;
