@@ -2,8 +2,8 @@
 Changelog for package pal_hardware_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2019-09-06)
+------------------
 * Change license to LGPL-3.0
 * Contributors: Victor Lopez
 
