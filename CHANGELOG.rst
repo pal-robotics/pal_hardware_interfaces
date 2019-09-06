@@ -2,6 +2,11 @@
 Changelog for package pal_hardware_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Change license to LGPL-3.0
+* Contributors: Victor Lopez
+
 0.0.3 (2017-02-17)
 ------------------
 * added getter to temperature data
